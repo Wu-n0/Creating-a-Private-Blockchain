@@ -62,7 +62,7 @@ You can use an external wallet such as MyEtherWallet or Mist to attach to your p
 
 Feel free to explore the source code, modify it to fit your specific requirements, and contribute to the project by submitting pull requests or opening issues.
 
-## Contributing
+
 
 Contributions to this project are welcome. If you encounter any issues, have suggestions for improvements, or want to contribute new features, please feel free to submit a pull request or open an issue.
 
